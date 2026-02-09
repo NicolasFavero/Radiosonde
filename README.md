@@ -20,7 +20,7 @@ Protótipo / Em desenvolvimento
 - Módulo LoRa (UART)
 - BMP280
 
-## Dependências
+## Dependências 
 
 - Adafruit BMP280 Library - v3.0.0
 - TinyGPSPlus - v1.0.3
